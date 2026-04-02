@@ -1,0 +1,27 @@
+*,body{
+  font-family: 'Outfit', Arial, Helvetica, sans-serif;
+}
+ 
+ nav ul li a {
+  display: block;
+  padding: 10px;
+  margin: 4px 0;
+}
+
+ nav ul li a{
+  display: flex;
+  width: 100%;
+  gap: 1rem;
+  align-items: center;  
+  font-weight: 500;
+}
+
+#nav-menu .ph, .ph-fill{
+  font-size: 24px;
+}
+
+#container-widgets i{
+  font-size: 22px;
+  padding: 0.5rem;
+  border-radius: 0.6rem;
+}
